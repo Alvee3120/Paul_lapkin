@@ -1,2 +1,1 @@
-# Paul_lapkin
-Portfolio of Paul Lapkin . One of my raw coded project
+https://alvee3120.github.io/Paul_lapkin/
